@@ -1,4 +1,5 @@
 const { configDotenv } = require('dotenv');
+console.log("hellooooo")
 const Telegrambot = require('node-telegram-bot-api');
 
 require("dotenv").config();
